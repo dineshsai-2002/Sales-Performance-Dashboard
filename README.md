@@ -1,2 +1,2 @@
 # Sales-Performance-Dashboard
-Data analysis using Excel and Power Bi
+To analyze and visualize key sales metrics to help stakeholders monitor performance, identify trends, and make data-driven business decisions.
