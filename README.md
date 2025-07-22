@@ -1,2 +1,2 @@
 # Sales-Performance-Dashboard
-To analyze and visualize key sales metrics to help stakeholders monitor performance, identify trends, and make data-driven business decisions.
+Designed an interactive Sales Performance Dashboard in Power BI using eCommerce data. The goal was to track KPIs like Sales, Profit, and AOV to help stakeholders make informed decisions.Cleaned and transformed data using Power Query (order info, customer demographics, product details).Built custom DAX measures for AOV, Profit Margin, and Rankings. Visualized trends with line charts, category performance with bar charts, and customer segmentation using demographic visuals.
